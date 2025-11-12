@@ -1,0 +1,40 @@
+{
+  "fontName": "Patrick Hand SC",
+  "fontFamily": "Patrick Hand SC",
+  "fontFiles": {
+    "regular": "https://fonts.gstatic.com/s/patrickhandsc/v13/-nFnOHM8B945nWQd4lJ_jGMwY2zL-5rhVJWt.woff2"
+  },
+  "cssRules": {
+    "*": {
+      "fontFamily": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
+    },
+    ".markup-2BOw-j": {
+      "fontFamily": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
+    },
+    ".username-h_Y3Us": {
+      "fontFamily": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
+    },
+    ".title-31JmR7": {
+      "fontFamily": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
+    },
+    ".inputDefault-3FGxgL": {
+      "fontFamily": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
+    },
+    ".username-1A8OIy": {
+      "fontFamily": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
+    },
+    ".channelName-1Qubhj": {
+      "fontFamily": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
+    },
+    ".name-28HaxV": {
+      "fontFamily": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
+    }
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "author": "Google Fonts",
+    "description": "Patrick Hand SC font for Discord",
+    "license": "OFL 1.1"
+  },
+  "googleFontsCSS": "https://fonts.googleapis.com/css2?family=Patrick+Hand+SC:wght@400&display=swap"
+}
