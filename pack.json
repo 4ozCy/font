@@ -1,8 +1,9 @@
 {
-  "spec": 1,
-  "name": "Patrick Hand",
-  "previewText": "Handwritten vibes, simple and clean.",
-  "main": {
-    "PatrickHandSC": "https://github.com/4ozCy/font/blob/main/PatrickHandSC-Regular.ttf?raw=1"
-  }
+    "spec": 1,
+    "name": "Patrick Hand",
+    "previewText": "This is an example of Patrick Hand fonts.",
+    "main": {
+        "PatrickHand-Regular": "https://github.com/4ozCy/font/blob/main/PatrickHand-Regular.ttf?raw=1",
+        "PatrickHandSC-Regular": "https://github.com/4ozCy/font/blob/main/PatrickHandSC-Regular.ttf?raw=1"
+    }
 }
