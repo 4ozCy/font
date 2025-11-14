@@ -1,13 +1,3 @@
-{
-  "name": "Patrick Hand SC",
-  "version": "1.0.0",
-  "fontFamily": "Patrick Hand SC",
-  "fontUrl": "https://fonts.googleapis.com/css2?family=Patrick+Hand+SC:wght@400&display=swap",
-  "targets": [
-    {
-      "selector": "*",
-      "property": "fontFamily",
-      "value": "'Patrick Hand SC', 'Comic Sans MS', cursive, sans-serif !important"
-    }
-  ]
+"fonts": {
+  "PatrickHandSC": "https://raw.githubusercontent.com/4ozCy/font/refs/heads/main/PatrickHandSC-Regular.ttf?raw=1"
 }
