@@ -1,6 +1,6 @@
 {
-    "name": "Vision (Midnight)",
-    "description": "Midnight theme with fixed background image",
+    "name": "Vision (Pure Darkness)",
+    "description": "Pure black OLED transparent theme",
     "authors": [
         {
             "name": "VodkaXMartini (Modified)"
@@ -9,24 +9,24 @@
     "spec": 2,
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
-            "#0a0e1790",
-            "#0a0e1790"
+            "#000000d0",
+            "#000000d0"
         ],
         "BACKGROUND_SECONDARY": [
-            "#070a1190",
-            "#070a1190"
+            "#000000b0",
+            "#000000b0"
         ],
         "BACKGROUND_TERTIARY": [
-            "#04060b90",
-            "#04060b90"
+            "#00000090",
+            "#00000090"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0a0e1790",
-            "#0a0e1790"
+            "#000000d0",
+            "#000000d0"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#070a1190",
-            "#070a1190"
+            "#000000b0",
+            "#000000b0"
         ],
         "APP_BACKGROUND": [
             "#00000000",
@@ -37,50 +37,50 @@
             "#00000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#121a2f90",
-            "#121a2f90"
+            "#000000e0",
+            "#000000e0"
         ],
         "BACKGROUND_FLOATING": [
-            "#0a0e17c0",
-            "#0a0e17c0"
+            "#000000fa",
+            "#000000fa"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#070a11e0",
-            "#070a11e0"
+            "#000000ff",
+            "#000000ff"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ffffff1a",
-            "#ffffff1a"
+            "#ffffff0a",
+            "#ffffff0a"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#ffffff1a",
-            "#ffffff1a"
+            "#ffffff0a",
+            "#ffffff0a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#ffffff33",
-            "#ffffff33"
+            "#ffffff1f",
+            "#ffffff1f"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#ffffff40",
-            "#ffffff40"
+            "#ffffff2a",
+            "#ffffff2a"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#0a0e17a0",
-            "#0a0e17a0"
+            "#000000c0",
+            "#000000c0"
         ],
         "TEXT_NORMAL": [
-            "#e3e5e8",
-            "#e3e5e8"
+            "#ffffff",
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#949ba4",
-            "#949ba4"
+            "#8e9297",
+            "#8e9297"
         ]
     },
     "rawColors": {},
     "background": {
         "url": "https://i.ibb.co/1tjGYDgt/file-0000000094ac71fd8619fbbff900100a.png",
-        "alpha": 0.6,
+        "alpha": 0.7,
         "blur": 0
     }
 }
